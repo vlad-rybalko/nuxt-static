@@ -1,0 +1,1 @@
+import{a as e,b as s,o,e as t}from"./entry.7849f9b3.js";const n={name:"user"},r=t("h1",null,"user",-1),c=[r];function a(_,p,d,i,l,u){return o(),s("div",null,c)}const m=e(n,[["render",a]]);export{m as U};

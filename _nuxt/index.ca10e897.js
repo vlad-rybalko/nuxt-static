@@ -1,0 +1,1 @@
+import{a as e,o as s,b as t,e as o}from"./entry.7849f9b3.js";const a={name:"basket"},n=o("h1",null,"basket",-1),c=[n];function _(d,i,l,p,f,m){return s(),t("div",null,c)}const r=e(a,[["render",_]]),k=r;export{k as default};

@@ -1,0 +1,1 @@
+import{a as e,o,b as n,e as s}from"./entry.7849f9b3.js";const t={name:"index",components:{}},c=s("h1",null,"Home page",-1),a=[c];function _(d,i,p,l,m,f){return o(),n("div",null,a)}const r=e(t,[["render",_]]),x=r;export{x as default};

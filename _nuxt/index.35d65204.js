@@ -1,0 +1,1 @@
+import{a,o,b as t}from"./entry.7849f9b3.js";const c={name:"catalog"},s={class:"catalog"};function e(r,_,u,l,p,f){return o(),t("div",s,"\u041A\u0430\u0442\u0430\u043B\u043E\u0433")}const n=a(c,[["render",e]]),d=n;export{d as default};
